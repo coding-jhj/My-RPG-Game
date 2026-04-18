@@ -1,9 +1,9 @@
 # ⚔ 아르칸: 잊혀진 왕좌 — Kingdom of Arkan RPG
 
-### 🎮 [▶ 지금 바로 플레이하기](https://coding-jhj.github.io/ARKAN_FORGOTTEN_THRONE/)
+### 🎮 [▶ 지금 바로 플레이하기](https://coding-jhj.github.io/ARKAN_FORGOTTEN_THRONE/ARCAN_RPG.html)
 
-[![Play](https://img.shields.io/badge/▶%20PLAY%20NOW-FF6B6B?style=for-the-badge)](https://coding-jhj.github.io/ARKAN_FORGOTTEN_THRONE/)
-[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-배포중-4CAF50?style=for-the-badge&logo=github)](https://coding-jhj.github.io/ARKAN_FORGOTTEN_THRONE/)
+[![Play](https://img.shields.io/badge/▶%20PLAY%20NOW-FF6B6B?style=for-the-badge)](https://coding-jhj.github.io/ARKAN_FORGOTTEN_THRONE/ARCAN_RPG.html)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-배포중-4CAF50?style=for-the-badge&logo=github)](https://coding-jhj.github.io/ARKAN_FORGOTTEN_THRONE/ARCAN_RPG.html)
 ![HTML](https://img.shields.io/badge/HTML5-단일%20파일-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 > *왕좌는 잊혀졌고, 왕국은 어둠에 잠겼다.*  
@@ -90,7 +90,7 @@ HTML5 / CSS3 / Vanilla JavaScript
 ```bash
 git clone https://github.com/coding-jhj/ARKAN_FORGOTTEN_THRONE.git
 cd ARKAN_FORGOTTEN_THRONE
-# index.html 을 브라우저로 열기
+# ARCAN_RPG.html 을 브라우저로 열기
 ```
 
 ---
@@ -99,7 +99,7 @@ cd ARKAN_FORGOTTEN_THRONE
 
 ```
 ARKAN_FORGOTTEN_THRONE/
-├── index.html   ← 게임 전체 (HTML + CSS + JS 올인원)
+├── ARCAN_RPG.html  ← 게임 전체 (HTML + CSS + JS 올인원)
 └── README.md
 ```
 
